@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00adfe&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a);Satisfação+me+chamo+Natsu+Jr...;Amante+de+tecnologia+e+cybersecurity!)](https://git.io/typing-svg)
  
  <div align="center">
-  <a href="https://github.com/Junior042">
-  <img height="41%"  src="https://github-readme-stats.vercel.app/api?username=junior042&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior042&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/NatsuJr004">
+  <img height="41%"  src="https://github-readme-stats.vercel.app/api?username=natsujr004&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsujr004&layout=compact&langs_count=7&theme=algolia"/>
 </div>
     
 ##
