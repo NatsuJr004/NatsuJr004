@@ -19,7 +19,7 @@
   <img align="center" alt="NatsuJr004-React"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
   <img align="center" alt="NatsuJr004-React"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="NatsuJr004-React"  width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
-  <img align="center" alt="NatsuJr004-React"  width="100" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original-wordmark.svg" />
+  <img align="center" alt="NatsuJr004-React"  width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
 
 <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg -->
 </div>
