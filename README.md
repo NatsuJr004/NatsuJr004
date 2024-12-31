@@ -9,7 +9,7 @@
     
 ##
 <div align="center"><br>
-  <img align="center" alt="NatsuJr004-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<!--   <img align="center" alt="NatsuJr004-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="NatsuJr004-CSS"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NatsuJr004-Js"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NatsuJr004-TS"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -19,7 +19,9 @@
   <img align="center" alt="NatsuJr004-React"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
   <img align="center" alt="NatsuJr004-React"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="NatsuJr004-React"  width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
-  <img align="center" alt="NatsuJr004-React"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
+  <img align="center" alt="NatsuJr004-React"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" /> -->
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,react,nodejs,lua,cs,dart,discordjs,tailwind,linux,figma&theme=dark)](https://skillicons.dev)
+  
 
 <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg -->
 </div>
