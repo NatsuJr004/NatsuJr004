@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00adfe&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a);Satisfação+me+chamo+Natsu+Jr...;Amante+de+tecnologia+e+cybersecurity!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00adfe&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a);Satisfação+me+chamo+Natsu+Jr...;Amante+de+programação+e+cybersecurity!)](https://git.io/typing-svg)
  
  <div align="center">
   <a href="https://github.com/NatsuJr004">
