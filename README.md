@@ -4,8 +4,8 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=c200fb&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a);Satisfação+me+chamo+Natsu+Jr...;Amante+de+programação+e+cybersecurity!)](https://git.io/typing-svg)
   
    <a href="https://github.com/NatsuJr004">
-   <img height="41%"  src="https://github-readme-stats.vercel.app/api?username=natsujr004&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-   <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsujr004&layout=compact&langs_count=7&theme=jolly"/>
+   <img height="250vh"  src="https://github-readme-stats.vercel.app/api?username=natsujr004&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+   <img height="300vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsujr004&layout=compact&langs_count=7&theme=jolly"/>
  
    ##
   
